@@ -1,4 +1,4 @@
-## Workshop: 14 March 2024 
+## Workshop: 17 March 2024 
 
 ## Unsupervised models with K-means in BigQuery
 
